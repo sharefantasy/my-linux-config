@@ -14,7 +14,7 @@
 ## Download & Installation
 Download:
 ```bash
-git clone https://github.com/howhow/tmux-config ~/.my_config/tmux
+git clone https://github.com/sharefantasy/tmux-config ~/.my_config/tmux
 ```
 
 Download tpm:
